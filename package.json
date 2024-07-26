@@ -1,0 +1,12 @@
+{
+  "name": "sol-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.2",
+    "axios": "^1.7.2",
+    "node-fetch": "^3.3.2"
+  }
+}
